@@ -1,4 +1,4 @@
-# Outil de Sécurité des Comptes X 2026 | À des fins éducatives uniquement
+# Outil de Piratage des Comptes X 2026 | À des fins éducatives uniquement
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Security](https://img.shields.io/badge/Security-Audit-red)
