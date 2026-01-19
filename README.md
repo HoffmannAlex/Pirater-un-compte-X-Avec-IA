@@ -202,31 +202,36 @@ TIMEOUT=30
 MAX_RETRIES=3
 ```
 
-## ⚠️ Important Notes
+## ⚠️ Remarques importantes
 
-- This tool is for educational purposes only
-- Always obtain proper authorization before testing
-- Respect rate limits and terms of service
-- Use strong, unique passwords and enable 2FA on your accounts
+- Cet outil est destiné à des fins éducatives uniquement.
 
----
+- Obtenez toujours une autorisation appropriée avant de réaliser des tests.
 
-## ⚠️ Legal and Ethical Considerations
+- Respectez les limites de débit et les conditions d'utilisation.
 
-This tool is provided for educational and authorized security testing purposes only. The developers assume no liability and are not responsible for any misuse or damage caused by this program. It is the end user's responsibility to obey all applicable local, state, and federal laws. 
-
-**IMPORTANT**: Only test accounts you own or have explicit permission to test. Unauthorized access to computer systems is illegal in most jurisdictions.
+- Utilisez des mots de passe forts et uniques et activez l'authentification à deux facteurs (2FA) sur vos comptes.
 
 ---
 
-## 📜 License
+## ⚠️ Considérations juridiques et éthiques
 
-This project is licensed under the Educational Community License v2.0 (ECL-2.0). See the LICENSE file for details.
+Cet outil est fourni à des fins éducatives et de tests de sécurité autorisés uniquement. Les développeurs déclinent toute responsabilité en cas de mauvaise utilisation ou de dommages causés par ce programme. Il est de la responsabilité de l'utilisateur final de respecter toutes les lois locales, nationales et fédérales applicables.
+
+**IMPORTANT** : Testez uniquement les comptes dont vous êtes propriétaire ou pour lesquels vous disposez d'une autorisation explicite. L'accès non autorisé à des systèmes informatiques est illégal dans la plupart des juridictions.
 
 ---
 
-## 🙏 Acknowledgments
+## 📜 Licence
 
-- Microsoft Graph API Team
-- Open Source Security Community
-- Educational Institutions promoting responsible security research
+Ce projet est distribué sous licence ECL-2.0 (Educational Community License v2.0). Consultez le fichier LICENSE pour plus de détails.
+
+---
+
+## 🙏 Remerciements
+
+- Équipe de l'API Microsoft Graph
+
+- Communauté de la sécurité open source
+
+- Établissements d'enseignement promouvant la recherche responsable en sécurité
